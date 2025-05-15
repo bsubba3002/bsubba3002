@@ -34,10 +34,7 @@ I'm a tech enthusiast, coder, and creative thinker who loves building meaningful
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balasubrahmanya&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Balasubrahmanya&layout=compact&theme=tokyonight)
 
 ---
 
@@ -45,17 +42,30 @@ I'm a tech enthusiast, coder, and creative thinker who loves building meaningful
 
 - 💡 **KalaChakra**: Personalized career navigator & skill roadmap 📍  
 - 🧪 **InterviewAI**: Voice-based AI mock interview system 🎙️  
-- 🧒 **AR Alphabet Book**: Interactive AR learning for children 🅰️🍎
+- 🧒 **AR Alphabet Book**: Interactive AR learning for children 🅰️🍎  
+- 📈 **SkillGap Analyzer**: ML tool to match user skills with job roles & suggest learning paths 📊  
+- 🧾 **Smart Resume Builder**: ATS-friendly resume generator with AI keyword optimization 🧠📄  
+- 🔎 **JobPulse**: Real-time job updates by location & role with smart filtering 📍💼  
+- 🎯 **Learning Roadmap Generator**: AI-based course and timeline planner for upskilling 📚🛤️  
+- 📊 **DashboardX**: Visual analytics dashboard for tracking learning progress & career readiness 📉📋  
+- 🧠 **NLP Toolbox**: A mini toolkit of regex-based extractors, POS taggers, and spelling correctors 📚✍️  
+- 🧵 **Threadify**: AI bot that converts long-form articles or notes into Twitter threads 🐦🧵
+
+
 
 ---
 
 ## 📬 Connect With Me
 
-- 📧 Email: balasubrahmanya3002@gmail.com  
-- 🌐 Portfolio: https://bsubba3002.github.io/subrahmanya__-/
-- 💼 LinkedIn: https://www.linkedin.com/in/bala-subrahmanya-413221257
+- 📧 Email: [balasubrahmanya3002@gmail.com](mailto:balasubrahmanya3002@gmail.com)  
+- 🌐 Portfolio: [bsubba3002.github.io/subrahmanya__-/](https://bsubba3002.github.io/subrahmanya__-/)  
+- 💼 LinkedIn: [linkedin.com/in/bala-subrahmanya-413221257](https://www.linkedin.com/in/bala-subrahmanya-413221257)  
+- 📱 Phone: [+91 70190 79848](tel:+917019079848)  
+- 💬 WhatsApp: [wa.me/917019079848](https://wa.me/917019079848)  
+- 📸 Instagram: [instagram.com/_2003.subrahmanya_](https://www.instagram.com/_2003.subrahmanya_/?igsh=MWE4dDJtamkwbGNqNA%3D%3D)
 
 ---
+
 
 > ✨ *"Code with purpose, design with empathy, build with passion."* 🚀
 
