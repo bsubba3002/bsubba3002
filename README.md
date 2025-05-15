@@ -33,7 +33,17 @@ I'm a tech enthusiast, coder, and creative thinker who loves building meaningful
 | Python 🐍, JavaScript ✨, HTML5 🔤, CSS3 🎨 | Flask ⚙️, TailwindCSS 💅, React ⚛️, GitHub 🐙 | Scikit-learn 📈, Pandas 🐼, NumPy 📊, OpenCV 👁️ | SQLite 📘, Firebase 🔥 (learning) |
 
 ---
+## 🎓 Education Background
 
+- 🏫 **Vivekananda College of Engineering and Technology, Puttur**  
+  🎓 *Bachelor of Engineering (B.E) in Artificial Intelligence And Machine Learning *  
+  📅 *2022 – 2026*  
+  📍 Puttur, Karnataka, India
+
+- 🏢 **Srirama PU College, Kalladka**  
+  🎓 *Pre-University Course (Science – PCMC)*  
+  📅 *2020 – 2022*  
+  📍 Kalladka, Karnataka, India
 
 
 ---
