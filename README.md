@@ -1,7 +1,11 @@
 # 👋 Hey there, I'm **Balasubrahmanya**! 💻⚡
 
-🌟 Passionate about **AI 🤖**, **Machine Learning 📊**, and **Web Development 🌐**  
-📍 Based in India 🇮🇳 | 🔥 Always building something new!
+✨ Exploring the future with:  
+🤖 AI | 📊 ML | 🎨 Generative AI | 🧠 LLMs | 🌐 Web Dev | 🕶️ AR/VR | 📋 Project Mgmt  
+
+Building intelligent, immersive, and scalable projects.
+
+
 
 ---
 
