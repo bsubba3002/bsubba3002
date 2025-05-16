@@ -1,9 +1,10 @@
 # 👋 Hey there, I'm **Balasubrahmanya**! 💻⚡
 
 ✨ Exploring the future with:  
-🤖 AI | 📊 ML | 🎨 Generative AI | 🧠 LLMs | 🌐 Web Dev | 🕶️ AR/VR | 📋 Project Management 
+🤖 AI | 📊 ML | 🎨 Generative AI | 🧠 LLMs | 🌐 Web Dev | 🕶️ AR/VR | 📋 Project Management  
 
-Building intelligent, immersive, and scalable projects.
+🧑‍💻 Just a human training machines to think.
+
 
 
 
