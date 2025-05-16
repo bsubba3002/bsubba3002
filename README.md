@@ -74,7 +74,7 @@ I'm a tech enthusiast, coder, and creative thinker who loves building meaningful
 - 📧 Email: [balasubrahmanya3002@gmail.com](mailto:balasubrahmanya3002@gmail.com)  
 - 🌐 Portfolio: [bsubba3002.github.io/subrahmanya__-/](https://bsubba3002.github.io/subrahmanya__-/)  
 - 💼 LinkedIn: [linkedin.com/in/bala-subrahmanya-413221257](https://www.linkedin.com/in/bala-subrahmanya-413221257)  
-- 📱 Phone: [+91 70190 79848](tel:+917019079848)  
+- 📱 Phone: [📞 +91 70190 79848](tel:+917019079848)
 - 💬 WhatsApp: [wa.me/917019079848](https://wa.me/917019079848)  
 - 📸 Instagram: [instagram.com/_2003.subrahmanya_](https://www.instagram.com/_2003.subrahmanya_/?igsh=MWE4dDJtamkwbGNqNA%3D%3D)
 
