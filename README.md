@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Balasubrahmanya**! 💻⚡
 
-![Typing Animation](https://cdn.dribbble.com/users/1231907/screenshots/3847461/typing_dots.gif)
+![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 
 ✨ Exploring the future with:  
