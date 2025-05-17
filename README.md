@@ -1,6 +1,7 @@
 # 👋 Hey there, I'm **Balasubrahmanya**! 💻⚡
 
-![Sparkle](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Typing Dots Color](https://i.gifer.com/origin/92/9224e03e0591a5783fa2fba5b6d7b285.gif)
+
 
 
 ✨ Exploring the future with:  
