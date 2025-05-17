@@ -1,11 +1,14 @@
 # 👋 Hey there, I'm **Balasubrahmanya**! 💻⚡
 
-![Typing animation](https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif)
+![Short Typing Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ✨ Exploring the future with:  
 🤖 AI | 📊 ML | 🎨 Generative AI | 🧠 LLMs | 🌐 Web Dev | 🕶️ AR/VR | 📋 Project Management  
 
 🧑‍💻 Just a human training machines to think.
+
+---
+
 
 ---
 
