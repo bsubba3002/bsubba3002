@@ -1,6 +1,7 @@
 # 👋 Hey there, I'm **Balasubrahmanya**! 💻⚡
 
-![Short Typing Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Typing Animation](https://cdn.dribbble.com/users/1231907/screenshots/3847461/typing_dots.gif)
+
 
 ✨ Exploring the future with:  
 🤖 AI | 📊 ML | 🎨 Generative AI | 🧠 LLMs | 🌐 Web Dev | 🕶️ AR/VR | 📋 Project Management  
