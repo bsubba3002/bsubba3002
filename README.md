@@ -58,14 +58,15 @@ I'm a tech enthusiast, coder, and creative thinker who loves building meaningful
 ## 🧠 Projects I'm Proud Of
 
 - 💡 **[Skill Sync](https://skill-sync-w3uc.onrender.com/)**: ML-powered skill-gap analyzer & personalized learning roadmap  
-- 🧪 **InterviewAI**: Voice-based AI mock interview system 🎙️  
-- 🧒 **AR Alphabet Book**: Interactive AR learning for children 🅰️🍎  
-- 🧾 **Smart Resume Builder**: ATS-friendly resume generator with AI keyword optimization  
-- 🔎 **JobPulse**: Real-time job updates by location & role with smart filtering  
-- 🎯 **Learning Roadmap Generator**: AI-based course and timeline planner for upskilling  
 - 🏥 **[Medi-Sync](https://medi-sync-j3ou.onrender.com)**: Healthcare appointment & management system  
 - 🍽️ **[Bhojanalay](https://bhojanalay-ccmo.onrender.com)**: Hotel Management System  
 - 🤖 **[OM.AI Story Generator](https://om-ai.onrender.com/)**: AI storytelling generator on Indian knowledge system  
+- 🐍 **[Snake Game](https://snake-game-cx41.onrender.com)**: Classic Snake game with animated background and multiple speed levels  
+- 🧪 InterviewAI: Voice-based AI mock interview system 🎙️  
+- 🧒 AR Alphabet Book: Interactive AR learning for children 🅰️🍎  
+- 🧾 Smart Resume Builder: ATS-friendly resume generator with AI keyword optimization  
+- 🔎 JobPulse: Real-time job updates by location & role with smart filtering  
+- 🎯 Learning Roadmap Generator: AI-based course and timeline planner for upskilling  
 
 
 ---
