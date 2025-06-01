@@ -2,16 +2,15 @@
 
 ![Typing Dots Color](https://i.gifer.com/origin/92/9224e03e0591a5783fa2fba5b6d7b285.gif)
 
+
+
 ✨ Exploring the future with:  
-🤖 AI <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="20" alt="robot"> |  
-📊 ML <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="20" alt="chart"> |  
-🎨 Generative AI <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="20" alt="art"> |  
-🧠 LLMs <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="20" alt="brain"> |  
-🌐 Web Dev <img src="https://media.giphy.com/media/3o7aD4p6Uyx6sIb6Ry/giphy.gif" width="20" alt="web"> |  
-🕶️ AR/VR <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="20" alt="vr"> |  
-📋 Project Management <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="20" alt="management">  
+🤖 AI | 📊 ML | 🎨 Generative AI | 🧠 LLMs | 🌐 Web Dev | 🕶️ AR/VR | 📋 Project Management  
 
 🧑‍💻 Just a human training machines to think.
+
+---
+
 
 ---
 
@@ -56,37 +55,19 @@ I'm a tech enthusiast, coder, and creative thinker who loves building meaningful
 
 ---
 
-## 🚀 Skill Progress (Animated)
-
-Python 🐍  
-![Python](https://progress-bar.dev/80/?title=Python&color=blue)
-
-Machine Learning  
-![ML](https://progress-bar.dev/70/?title=MachineLearning&color=green)
-
-Flask & Web Dev  
-![Flask](https://progress-bar.dev/60/?title=FlaskWeb&color=orange)
-
-AR/VR  
-![ARVR](https://progress-bar.dev/50/?title=ARVR&color=purple)
-
-NLP  
-![NLP](https://progress-bar.dev/50/?title=NLP&color=red)
-
----
-
 ## 🧠 Projects I'm Proud Of
 
 - 💡 **[Skill Sync](https://skill-sync-w3uc.onrender.com/)**: ML-powered skill-gap analyzer & personalized learning roadmap  
 - 🏥 **[Medi-Sync](https://medi-sync-j3ou.onrender.com)**: Healthcare appointment & management system  
 - 🍽️ **[Bhojanalay](https://bhojanalay-ccmo.onrender.com)**: Hotel Management System  
 - 🤖 **[OM.AI Story Generator](https://om-ai.onrender.com/)**: AI storytelling generator on Indian knowledge system  
-- 🐍 **[Snake Game](https://snake-game-cx41.onrender.com/)**: Classic Snake game with animated background and multiple speed levels  
+- 🐍 **[Snake Game](https://snake-game-cx41.onrender.com)**: Classic Snake game with animated background and multiple speed levels  
 - 🧪 InterviewAI: Voice-based AI mock interview system 🎙️  
 - 🧒 AR Alphabet Book: Interactive AR learning for children 🅰️🍎  
 - 🧾 Smart Resume Builder: ATS-friendly resume generator with AI keyword optimization  
 - 🔎 JobPulse: Real-time job updates by location & role with smart filtering  
 - 🎯 Learning Roadmap Generator: AI-based course and timeline planner for upskilling  
+
 
 ---
 
@@ -105,4 +86,4 @@ NLP
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/balasubrahmanya/count.svg)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=balasubrahmanya.visitor-badge)
